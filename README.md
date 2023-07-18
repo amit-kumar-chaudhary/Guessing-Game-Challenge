@@ -1,5 +1,7 @@
 # Guessing-Game-Challenge
 
+![Image](guessing-game.png)
+
 ## Program that picks a random integer from 1 to 100, and has players guess the number. The rules are:
 
 1. If a player's guess is less than 1 or greater than 100, say "OUT OF BOUNDS"
